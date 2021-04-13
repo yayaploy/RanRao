@@ -69,8 +69,8 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:087-177-8052</marquee></p>
 <br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_RanRao.png" alt="QR_code" width="100">
-<p align="right"> <img src="venus1.gif" alt="venus1.gif" width="50">
-<img src="venus3.gif" alt="venus3.gif" width="50"></p>
+<p align="right"> <img src="https://github.com/yayaploy/whooneimaloy/blob/master/venus1.gif" alt="https://github.com/yayaploy/whooneimaloy/blob/master/venus1.gif" width="50">
+<img src="https://github.com/yayaploy/whooneimaloy/blob/master/venus3.gif" alt="https://github.com/yayaploy/whooneimaloy/blob/master/venus3.gif" width="50"></p>
 <div>
 <h3><span class="white">↓ 2019/04/10</span></h3>
  <a href="20210413_010.JPG" data-lightbox="abc"><img src="20210413_010.JPG" alt="サンプル画像" width="900" /></a>
