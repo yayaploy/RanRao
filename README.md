@@ -67,7 +67,7 @@ body::before {
 <span class="blue"><p align="right">ร้านอิ่มอร่อย</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2565/04/01@ร้านเรา RanRao ランラア!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:087-177-8052</marquee></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 <p align="left"> <img src="QR_RanRao.png" alt="QR_code" width="100">
 <p align="right"> <img src="https://github.com/yayaploy/whooneimaloy/blob/master/venus1.gif" alt="https://github.com/yayaploy/whooneimaloy/blob/master/venus1.gif" width="50">
