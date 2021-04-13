@@ -65,7 +65,7 @@ body::before {
 -->
 
 <span class="blue"><p align="right">ร้านอิ่มอร่อย</p></span>
-<h1><span class="yellow"><marquee behavior="lrft">!!! 2565/04/09@ร้านเรา RanRao ランラア!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2565/04/09@ร้านเรา RanRao ランラアウ!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:096-718-0595</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
