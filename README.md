@@ -64,7 +64,7 @@ body::before {
 <body onload="alert('ゴーさん、お疲れ様でした。またやりましょう！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 -->
 
-<span class="blue"><p align="right">ร้านอิ่มอร่อย</p></span>
+<span class="blue"><p align="right">ร้านเรา</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2564/04/09@ร้านเรา RanRao ランラアウ!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:096-718-0595</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
