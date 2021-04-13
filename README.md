@@ -109,5 +109,5 @@ Map
 
 <!-- フッタ -->
  <footer><span class="snow">
- Copyright 2021/04/13 S,Hada
+ Copyright 2021/04/13 Torokoid, Mibu
 </span></footer>
