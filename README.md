@@ -65,7 +65,7 @@ body::before {
 -->
 
 <span class="blue"><p align="right">ร้านอิ่มอร่อย</p></span>
-<h1><span class="yellow"><marquee behavior="lrft">!!! 2565/04/09@ร้านเรา RanRao ランラアウ!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2564/04/09@ร้านเรา RanRao ランラアウ!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:096-718-0595</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
@@ -74,7 +74,7 @@ body::before {
 <img src="https://github.com/yayaploy/whooneimaloy/blob/master/venus3.gif" alt="https://github.com/yayaploy/whooneimaloy/blob/master/venus3.gif" width="50"></p>
 -->
 <div>
-<h3><span class="white">↓ 2019/04/09</span></h3>
+<h3><span class="white">↓ 2021/04/09</span></h3>
  <a href="20210413_002.JPG" data-lightbox="abc"><img src="20210413_002.JPG" alt="サンプル画像" width="900" /></a>
  <a href="20210413_001.JPG" data-lightbox="abc"><img src="20210413_001.JPG" alt="サンプル画像" width="900" /></a>
  <a href="20210413_003.JPG" data-lightbox="abc"><img src="20210413_003.JPG" alt="サンプル画像" width="900" /></a>
